@@ -14,10 +14,10 @@
 DHT dht(DHTPIN, DHTTYPE);
 LiquidCrystal_I2C lcd(0x27, 16, 2);
 
-const int mq4 = A0; 
-const int mq135 = A1; 
+const int mq2 = A0;
+const int mq4 = A1;  
 const int mq5 = A2; 
-const int mq2 = A3;
+const int mq135 = A3;
 
 float m = -0.6527; 
 float b = 1.30; 
