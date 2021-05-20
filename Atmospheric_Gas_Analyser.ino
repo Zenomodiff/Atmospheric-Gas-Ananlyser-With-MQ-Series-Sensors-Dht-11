@@ -2,7 +2,7 @@
  * sreeramaj53@gmail.com
  * www.youtube.com/ZenoModiff
  * last updated - time 09:05 PM - date 20 may 2021
- * Github Link :-- https://github.com/Zenomodiff/Password-Proted-Lock-Using-Arduino-Keypad
+ * Github Link :-- https://github.com/Zenomodiff/Atmospheric-Gas-Ananlyser-With-MQ-Series-Sensors-Dht-11
  */
 
 #include <Wire.h> 
