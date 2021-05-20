@@ -1,2 +1,7 @@
 # Atmospheric-Gas-Ananlyser-With-MQ-Series-Sensors-Dht-11-
-This is a gas analyser project using mq series projects , dht 11 sensor &amp; arduino 
+This Is A Gas Analyser Project Using MQ Series Projects , DHT 11 Sensor & Arduino 
+
+DEVICE VIEW
+
+![Screenshot (331)](https://user-images.githubusercontent.com/25906435/119010583-d93dfb80-b9b1-11eb-8d32-be9440863aa4.png)
+
